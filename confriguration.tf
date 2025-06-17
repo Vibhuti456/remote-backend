@@ -1,3 +1,5 @@
+# name should be "terraform.tf" in your ec2-instance-infra (rename to terraform.tf) 
+
 terraform {
   required_providers {
     aws = {
